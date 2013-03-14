@@ -1,4 +1,0 @@
-myroot
-======
-
-root project
